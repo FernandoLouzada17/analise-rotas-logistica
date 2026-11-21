@@ -1,6 +1,6 @@
 # 📍 Dashboard de Análise de Fretes e Rotas (Otimização Logística)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](COLE_AQUI_O_SEU_LINK_DO_STREAMLIT_DEPOIS)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lduzmwffabypra2rmk7gxi.streamlit.app/)
 
 Este projeto é um painel interativo desenvolvido para o setor de **Logística e Transportes**. O objetivo principal é analisar os custos de frete, mapear as rotas de entrega e identificar ineficiências na operação, ajudando na tomada de decisão para redução de custos.
 
